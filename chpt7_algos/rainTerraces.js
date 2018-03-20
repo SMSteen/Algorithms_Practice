@@ -35,6 +35,7 @@ function rainTerraces(arr){
     return total_vol;
 }
 
+//tester function courtesy of Keoni
 function testRainTerrace(func) {
     var tests = [
       {
